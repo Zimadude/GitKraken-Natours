@@ -1,5 +1,9 @@
-# Object file
-*.o
+# Object file to ignore
+*.ico
+*.ini
+*hero-1.jpg
 
 # Ada Library Information
-*.ali
+
+sass
+.vscode
